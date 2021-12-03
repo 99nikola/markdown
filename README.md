@@ -1,79 +1,31 @@
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+![Unsplash Random Slika](https://images.unsplash.com/photo-1638059185188-80683963aa83?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=MnwyODAwNTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Mzg1MzI3MjE\u0026ixlib=rb-1.2.1\u0026q=80\u0026w=400)
 
-<!-- Italic -->
-*This text is italic*
-_This text is also italic_
+# Markdown vježba
 
-<!-- Strong -->
-**This text is strong**
-__This text is also strong__
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eros augue, pulvinar eget finibus eget, volutpat nec erat. Phasellus augue ante, pulvinar nec vulputate et, consectetur in justo. Nulla nec velit dui. Vivamus facilisis tortor tellus, ut molestie purus viverra vestibulum. Donec metus lacus, sollicitudin ut auctor vel, tempus a urna. Vivamus aliquet aliquam luctus. Nullam venenatis quis nibh ac tincidunt. Aliquam erat volutpat. Ut ligula libero, euismod et posuere at, eleifend eu quam. In facilisis dui libero, eget aliquet arcu consectetur eu. Quisque facilisis vehicula scelerisque. Maecenas nec lectus vitae felis pellentesque porta. In turpis orci, lacinia nec ipsum a, vestibulum dictum elit. Nullam non fermentum ligula.
 
-<!-- Strikethrough -->
-~~This text is strikethrough~~
-
-<!-- Horizontalrule -->
 ---
-___
 
-<!-- Escape special character -->
-\*Escape special characters\*
-
-<!-- Blockquote -->
->This is quote
-
-<!-- Links -->
-[Google link](https://www.google.com)
-
-[Google link with on hover title](https://www.google.com "Google title")
-
-
-<!-- Unordered list -->
-* Item 1
-* Item 2
-    * Nested Item 
-        * More nested
-
-<!-- Ordered List -->
-1. Item 1
-1. Item 2
-1. Item 3
-    1. Nested Item
-
-<!-- Inline Codeblock -->
-`<p>This is paragraph</p>`
-
-<!-- Images -->
-![Logo](https://markdown-here.com/img/icon128.png)
-
-
-<!-- Github Markdown -->
-```bash
-    yarn create create-app my-app --typescript
-    yarn start
-```
+## Heading 2
 
 ```javascript
-    const sayHello = () => {
-        console.log("Hello");
-    }
+    import React from "react";
 ```
 
+Ovo je pragraf koji sadrži riječi koje su _italic_  i **bold**
 
-<!-- Tables -->
-| Username | Email |
-| -------- | -----  |
-| nikola   | nikola@gmail.com | 
-| marko    | marko@gmail.com | 
+> Think twice, code once
 
-<!-- Task Lists -->
-* [x] Completed task
-* [ ] Not completed task
+* apple
+* orange
 
+1. apple 
+1. orange
 
+| Ime | Prezime |
+| --- | ------- |
+| Nikola | Popović  |
+| Marko  | Marković |
 
+$\int_{-\infty}^{+\infty}xe^{-x^2/2}$
 
